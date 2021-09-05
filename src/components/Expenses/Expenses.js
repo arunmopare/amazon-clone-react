@@ -12,5 +12,5 @@ const Expense = (props) => {
       ></ExpenseItem>
     </Card>
   );
-}
+};
 export default Expense;
